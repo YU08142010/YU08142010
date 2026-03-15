@@ -20,7 +20,7 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Raspberry Pi5やサブPCのOSをFedoraにした影響
+- 🐧**Linux** : Raspberry Pi5やサブPCのOSをArchにした影響
 
 ### 話しかけてほしいこと
 できれば私の知ってる言語のことについてなら最高ですが、いろんなことを学びたいのでほんとになんでもOKです！でも**私のレベル**でもわかるようなことにしてください！
@@ -45,7 +45,7 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Affected by using Fedora on my sub-PC and my Raspberry Pi5
+- 🐧**Linux** : Affected by using Arch on my sub-PC and my Raspberry Pi5
 
 ### Feel free to talk to me about...
 If possible, I'd love to chat about the languages I know, but I'm really open to anything because I want to learn a lot of things! But please make it something that even **my level** can understand!
