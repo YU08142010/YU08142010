@@ -8,7 +8,7 @@
 ### 技術(学習途中)
 - 🐍**Python** : 初めてのプログラミング言語
 
-- 🌐**JS,HTML,CSS** : Webを作ってみたい
+- 🐧**Linuxコマンド** : まだまだ途中ですが頑張って勉強しています！
 
 - ⚙️**C言語** : コンピューターの仕組みを理解したい
 
@@ -20,7 +20,7 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Raspberry Pi5やサブPCのOSをArchにした影響
+- 🐧**Linux** : Raspberry Pi5やThinkPadの影響(I use Arch, btw)
 
 ### 話しかけてほしいこと
 できれば私の知ってる言語のことについてなら最高ですが、いろんなことを学びたいのでほんとになんでもOKです！でも**私のレベル**でもわかるようなことにしてください！
@@ -33,7 +33,7 @@ Hi, I'm a beginner programmer. I am currently learning **Python,JS,HTML,CSS,C**.
 ### Tech(Learning)
 - 🐍**Python** : My first programming language
 
-- 🌐**JS,HTML,CSS** : I want to try building web apps
+- 🐧**Linux Commands** : Still a work in progress, but I'm studying hard!
 
 - ⚙️**C** : I want to understand how computers work
 
@@ -45,7 +45,7 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Affected by using Arch on my sub-PC and my Raspberry Pi5
+- 🐧**Linux** : Affected by using Raspberry Pi5 and ThinkPad(I use Arch, btw)
 
 ### Feel free to talk to me about...
 If possible, I'd love to chat about the languages I know, but I'm really open to anything because I want to learn a lot of things! But please make it something that even **my level** can understand!
