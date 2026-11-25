@@ -1,6 +1,20 @@
 # Hi there 👋
 
-## Japanese
+<div align="center">
+
+<a href="https://github.com/YU08142010">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YU08142010&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YU08142010">
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YU08142010&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=YU08142010&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<details open>
+<summary><b>Japanese (日本語)</b></summary>
 
 ### 自己紹介
 こんにちは、私は初心者プログラマーです。今は主に**Python,JS,HTML,CSS,C言語**を勉強しています。Linuxも最近ハマってるのでコマンド少しわかります。基本のことしかできませんが最近はC言語でコンピュータの仕組みについて学んでます。温かい目で見てやってください！
@@ -20,12 +34,15 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Raspberry Pi5やThinkPadの影響(I use Arch, btw)
+- 🐧**Linux** : 最近Proxmoxサーバーを立てました！
 
 ### 話しかけてほしいこと
 できれば私の知ってる言語のことについてなら最高ですが、いろんなことを学びたいのでほんとになんでもOKです！でも**私のレベル**でもわかるようなことにしてください！
 
-## English
+</details>
+
+<details>
+<summary><b>English</b></summary>
 
 ### About Me
 Hi, I'm a beginner programmer. I am currently learning **Python,JS,HTML,CSS,C**. I'm also getting into Linux, so I know a little bit about commands. I can only do the basics, but lately, I've been learning about how computers work using C. Please be kind!
@@ -45,10 +62,12 @@ int main(void) {
 }
 ```
 
-- 🐧**Linux** : Affected by using Raspberry Pi5 and ThinkPad(I use Arch, btw)
+- 🐧**Linux** : I recently set up a Proxmox server!
 
 ### Feel free to talk to me about...
 If possible, I'd love to chat about the languages I know, but I'm really open to anything because I want to learn a lot of things! But please make it something that even **my level** can understand!
+
+</details>
 
 
 
