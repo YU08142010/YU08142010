@@ -1,29 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="780" height="460" viewBox="0 0 780 460" role="img" aria-label="fastfetch output">
-<style>text{font-family:"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:13px;fill:#e6e6e6;white-space:pre}.dim{fill:#8a8a8a}.b{fill:#ffffff;font-weight:bold}.logo{fill:#d0d0d0}.i{font-size:15px}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s steps(1) infinite}</style>
+<style>text{font-family:"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:13px;fill:#e6e6e6;white-space:pre}.dim{fill:#8a8a8a}.b{fill:#ffffff;font-weight:bold}.i{font-size:15px}@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:blink 1s steps(1) infinite}</style>
 <rect width="780" height="460" rx="10" fill="#0d0d0d"/>
 <path d="M0 10a10 10 0 0 1 10-10h760a10 10 0 0 1 10 10v26H0z" fill="#262626"/>
 <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
 <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
 <circle cx="62" cy="18" r="6" fill="#27c93f"/>
 <text x="390.0" y="23" text-anchor="middle" class="dim" style="font-size:13px">yu0814@github: ~</text>
-<text x="24" y="84" class="i"><tspan class="b">yu0814@github</tspan><tspan class="dim">:~$ </tspan>fastfetch</text>
-<text x="24" y="112" xml:space="preserve" class="logo">                    c.'</text>
-<text x="24" y="130" xml:space="preserve" class="logo">                 ,xNMM.</text>
-<text x="24" y="148" xml:space="preserve" class="logo">               .OMMMMo</text>
-<text x="24" y="166" xml:space="preserve" class="logo">               OMMM0,</text>
-<text x="24" y="184" xml:space="preserve" class="logo">     .;loddo:' loolloddol;.</text>
-<text x="24" y="202" xml:space="preserve" class="logo">   cKMMMMMMMMMMNWMMMMMMMMMM0:</text>
-<text x="24" y="220" xml:space="preserve" class="logo"> .KMMMMMMMMMMMMMMMMMMMMMMMWd.</text>
-<text x="24" y="238" xml:space="preserve" class="logo"> XMMMMMMMMMMMMMMMMMMMMMMMX.</text>
-<text x="24" y="256" xml:space="preserve" class="logo">;MMMMMMMMMMMMMMMMMMMMMMMM:</text>
-<text x="24" y="274" xml:space="preserve" class="logo">:MMMMMMMMMMMMMMMMMMMMMMMM:</text>
-<text x="24" y="292" xml:space="preserve" class="logo">.MMMMMMMMMMMMMMMMMMMMMMMMX.</text>
-<text x="24" y="310" xml:space="preserve" class="logo"> kMMMMMMMMMMMMMMMMMMMMMMMMWd.</text>
-<text x="24" y="328" xml:space="preserve" class="logo"> .XMMMMMMMMMMMMMMMMMMMMMMMMMMk</text>
-<text x="24" y="346" xml:space="preserve" class="logo">  .XMMMMMMMMMMMMMMMMMMMMMMMMK.</text>
-<text x="24" y="364" xml:space="preserve" class="logo">    kMMMMMMMMMMMMMMMMMMMMMMd</text>
-<text x="24" y="382" xml:space="preserve" class="logo">     ;KMMMMMMMWXXWMMMMMMMk.</text>
-<text x="24" y="400" xml:space="preserve" class="logo">       .cooc,.    .,coo:.</text>
+<text x="24" y="84" class="i"><tspan fill="#b5bd68" font-weight="bold">yu0814@github</tspan><tspan class="dim">:</tspan><tspan fill="#81a2be">~</tspan><tspan class="dim">$ </tspan>fastfetch</text>
+<text x="24" y="112" xml:space="preserve" style="fill:#61bb46;font-weight:bold">                    c.'</text>
+<text x="24" y="130" xml:space="preserve" style="fill:#61bb46;font-weight:bold">                 ,xNMM.</text>
+<text x="24" y="148" xml:space="preserve" style="fill:#61bb46;font-weight:bold">               .OMMMMo</text>
+<text x="24" y="166" xml:space="preserve" style="fill:#61bb46;font-weight:bold">               OMMM0,</text>
+<text x="24" y="184" xml:space="preserve" style="fill:#fdb827;font-weight:bold">     .;loddo:' loolloddol;.</text>
+<text x="24" y="202" xml:space="preserve" style="fill:#fdb827;font-weight:bold">   cKMMMMMMMMMMNWMMMMMMMMMM0:</text>
+<text x="24" y="220" xml:space="preserve" style="fill:#fdb827;font-weight:bold"> .KMMMMMMMMMMMMMMMMMMMMMMMWd.</text>
+<text x="24" y="238" xml:space="preserve" style="fill:#f5821f;font-weight:bold"> XMMMMMMMMMMMMMMMMMMMMMMMX.</text>
+<text x="24" y="256" xml:space="preserve" style="fill:#f5821f;font-weight:bold">;MMMMMMMMMMMMMMMMMMMMMMMM:</text>
+<text x="24" y="274" xml:space="preserve" style="fill:#e03a3e;font-weight:bold">:MMMMMMMMMMMMMMMMMMMMMMMM:</text>
+<text x="24" y="292" xml:space="preserve" style="fill:#e03a3e;font-weight:bold">.MMMMMMMMMMMMMMMMMMMMMMMMX.</text>
+<text x="24" y="310" xml:space="preserve" style="fill:#e03a3e;font-weight:bold"> kMMMMMMMMMMMMMMMMMMMMMMMMWd.</text>
+<text x="24" y="328" xml:space="preserve" style="fill:#963d97;font-weight:bold"> .XMMMMMMMMMMMMMMMMMMMMMMMMMMk</text>
+<text x="24" y="346" xml:space="preserve" style="fill:#963d97;font-weight:bold">  .XMMMMMMMMMMMMMMMMMMMMMMMMK.</text>
+<text x="24" y="364" xml:space="preserve" style="fill:#009ddc;font-weight:bold">    kMMMMMMMMMMMMMMMMMMMMMMd</text>
+<text x="24" y="382" xml:space="preserve" style="fill:#009ddc;font-weight:bold">     ;KMMMMMMMWXXWMMMMMMMk.</text>
+<text x="24" y="400" xml:space="preserve" style="fill:#009ddc;font-weight:bold">       .cooc,.    .,coo:.</text>
 <text x="330" y="122" class="i"><tspan class="b">yu0814</tspan><tspan class="dim">@</tspan><tspan class="b">github</tspan></text>
 <text x="330" y="142" class="i dim">--------------</text>
 <text x="330" y="164" class="i"><tspan class="b">OS</tspan><tspan class="dim">: </tspan><tspan>macOS</tspan></text>
@@ -32,13 +32,21 @@
 <text x="330" y="230" class="i"><tspan class="b">Learning</tspan><tspan class="dim">: </tspan><tspan>Python, C, Shell</tspan></text>
 <text x="330" y="252" class="i"><tspan class="b">Interests</tspan><tspan class="dim">: </tspan><tspan>Linux, how computers work</tspan></text>
 <text x="330" y="274" class="i"><tspan class="b">Status</tspan><tspan class="dim">: </tspan><tspan>beginner</tspan></text>
-<rect x="330" y="294" width="24" height="16" fill="#1a1a1a"/>
-<rect x="354" y="294" width="24" height="16" fill="#3a3a3a"/>
-<rect x="378" y="294" width="24" height="16" fill="#5a5a5a"/>
-<rect x="402" y="294" width="24" height="16" fill="#7a7a7a"/>
-<rect x="426" y="294" width="24" height="16" fill="#9a9a9a"/>
-<rect x="450" y="294" width="24" height="16" fill="#bababa"/>
-<rect x="474" y="294" width="24" height="16" fill="#dadada"/>
-<rect x="498" y="294" width="24" height="16" fill="#ffffff"/>
-<text x="24" y="432" class="i"><tspan class="b">yu0814@github</tspan><tspan class="dim">:~$ </tspan><tspan class="cur">_</tspan></text>
+<rect x="330" y="294" width="24" height="17" fill="#1d1f21"/>
+<rect x="354" y="294" width="24" height="17" fill="#cc6666"/>
+<rect x="378" y="294" width="24" height="17" fill="#b5bd68"/>
+<rect x="402" y="294" width="24" height="17" fill="#f0c674"/>
+<rect x="426" y="294" width="24" height="17" fill="#81a2be"/>
+<rect x="450" y="294" width="24" height="17" fill="#b294bb"/>
+<rect x="474" y="294" width="24" height="17" fill="#8abeb7"/>
+<rect x="498" y="294" width="24" height="17" fill="#c5c8c6"/>
+<rect x="330" y="311" width="24" height="17" fill="#666666"/>
+<rect x="354" y="311" width="24" height="17" fill="#d54e53"/>
+<rect x="378" y="311" width="24" height="17" fill="#b9ca4a"/>
+<rect x="402" y="311" width="24" height="17" fill="#e7c547"/>
+<rect x="426" y="311" width="24" height="17" fill="#7aa6da"/>
+<rect x="450" y="311" width="24" height="17" fill="#c397d8"/>
+<rect x="474" y="311" width="24" height="17" fill="#70c0b1"/>
+<rect x="498" y="311" width="24" height="17" fill="#eaeaea"/>
+<text x="24" y="432" class="i"><tspan fill="#b5bd68" font-weight="bold">yu0814@github</tspan><tspan class="dim">:</tspan><tspan fill="#81a2be">~</tspan><tspan class="dim">$ </tspan><tspan class="cur" fill="#f0c674">_</tspan></text>
 </svg>

@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="./terminal.svg?v=2" alt="Terminal intro (fastfetch)" />
+  <img src="./terminal.svg?v=3" alt="Terminal intro (fastfetch)" />
 </div>
 
 <details open>
