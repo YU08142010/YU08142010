@@ -13,6 +13,17 @@
 
 </div>
 
+```text
+yu@github
+---------
+OS        : macOS
+Shell     : zsh
+Server    : Proxmox
+Learning  : Python, JS, HTML, CSS, C
+Interests : Linux, how computers work
+Status    : beginner (be kind!)
+```
+
 <details open>
 <summary><b>Japanese (日本語)</b></summary>
 
