@@ -1,20 +1,13 @@
 # Hi there 👋
 
 <div align="center">
-
-<a href="https://github.com/YU08142010">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YU08142010&show_icons=true&title_color=111111&text_color=444444&icon_color=888888&bg_color=FFFFFF&border_color=E0E0E0" />
-</a>
-<a href="https://github.com/YU08142010">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YU08142010&layout=compact&title_color=111111&text_color=444444&icon_color=888888&bg_color=FFFFFF&border_color=E0E0E0" />
-</a>
-
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=YU08142010&background=FFFFFF&ring=333333&fire=333333&currStreakNum=111111&sideNums=111111&currStreakLabel=333333&sideLabels=555555&dates=888888&stroke=E0E0E0&border=E0E0E0" />
-
+<a href="https://github.com/YU08142010"><img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YU08142010&show_icons=true&title_color=111111&text_color=444444&icon_color=888888&bg_color=FFFFFF&border_color=E0E0E0" /></a><a href="https://github.com/YU08142010"><img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YU08142010&layout=compact&title_color=111111&text_color=444444&icon_color=888888&bg_color=FFFFFF&border_color=E0E0E0" /></a>
+<br />
+<img width="695" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=YU08142010&background=FFFFFF&ring=333333&fire=333333&currStreakNum=111111&sideNums=111111&currStreakLabel=333333&sideLabels=555555&dates=888888&stroke=E0E0E0&border=E0E0E0&card_width=695&card_height=195" />
 </div>
 
 <div align="center">
-  <img src="./terminal.svg?v=3" alt="Terminal intro (fastfetch)" />
+  <img src="./terminal.svg?v=4" alt="Terminal intro (fastfetch)" />
 </div>
 
 <details open>
